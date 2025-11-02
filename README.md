@@ -84,7 +84,7 @@ O projeto desenvolvido como exemplo consiste em um **workflow automatizado** par
 }
 ```
 
-**Descrição Técnica:**
+ **Descrição Técnica:**
 
 * A máquina de estados começa com a função **ValidarDados**.
 * Em seguida, verifica se a variável `$.valido` é verdadeira.
@@ -114,10 +114,9 @@ Esse desafio permitiu:
 * Praticar a criação de **condições e validações dentro do fluxo**;
 * Fortalecer a habilidade de **documentar e versionar projetos técnicos** no GitHub.
 
-
 ---
 
-## Referências
+## 🔗 Referências
 
 * [Documentação Oficial AWS Step Functions](https://docs.aws.amazon.com/step-functions/)
 * [Amazon States Language](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
@@ -126,4 +125,4 @@ Esse desafio permitiu:
 
 ---
 
-**Autor:** Silvia Toledo
+ **Autor:** Silvia Toledo
