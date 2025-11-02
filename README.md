@@ -117,7 +117,7 @@ Esse desafio permitiu:
 
 ---
 
-##  Referências
+## Referências
 
 * [Documentação Oficial AWS Step Functions](https://docs.aws.amazon.com/step-functions/)
 * [Amazon States Language](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
